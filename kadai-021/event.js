@@ -1,4 +1,6 @@
 
+const text = document.getElementById('text');
+
 console.log('ボタンをクリックしてください');
 
 const btn = document.getElementById('btn');
